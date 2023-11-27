@@ -6,7 +6,7 @@ KiCADをかっこよくして気分をアゲよう
 
 設定を開いてカラーのところに行き、「ファインダーにテーマを表示」を押します。
 
-<img width="2672" alt="スクリーンショット 2023-11-28 3 22 24" src="https://github.com/shirokuma89dev/KiCAD-Theme/assets/47915291/81d4992d-bbee-4aed-81c4-ecd47ab445a1">
+<img width="1441" alt="スクリーンショット 2023-11-28 4 14 15" src="https://github.com/shirokuma89dev/KiCAD-Theme/assets/47915291/07cb929c-9a4b-48e7-a68d-07aab9265881">
 
 そこに.jsonをコピペして使ってください。
 
