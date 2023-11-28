@@ -20,4 +20,8 @@ KiCADをかっこよくして気分をアゲよう
 
 ## shirokuma89dev-Light
 
-開発中です。
+基板の方はなんかハイライトの仕様とうまく噛み合わないっぽいけどとりあえず作った。回路図はいい感じ。
+
+<img width="1822" alt="スクリーンショット 2023-11-28 11 18 29" src="https://github.com/shirokuma89dev/KiCAD-Theme/assets/47915291/07d8e47d-2db9-4f8e-8b1b-80b67b89c9c1">
+
+<img width="1822" alt="スクリーンショット 2023-11-28 11 48 48" src="https://github.com/shirokuma89dev/KiCAD-Theme/assets/47915291/08f9a1f6-b923-44e4-9e55-b06c03b78c77">
