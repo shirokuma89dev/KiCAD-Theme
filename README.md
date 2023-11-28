@@ -10,7 +10,7 @@ KiCADをかっこよくして気分をアゲよう
 
 そこに.jsonをコピペして使ってください。
 
-## shirokuma89-Dark
+## shirokuma89dev-Dark
 
 僕が好きな色たくさん集めました。青みがかった見やすいかつ優しい色合いのテーマです。みんなつかってね。
 
@@ -18,6 +18,6 @@ KiCADをかっこよくして気分をアゲよう
 
 <img width="2672" alt="スクリーンショット 2023-11-28 3 59 38" src="https://github.com/shirokuma89dev/KiCAD-Theme/assets/47915291/74118c74-d03a-4a25-8b71-6965ff3ee778">
 
-## shirokuma89-Light
+## shirokuma89dev-Light
 
 開発中です。
